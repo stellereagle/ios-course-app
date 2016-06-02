@@ -1,1 +1,1 @@
-var one = "Good guy"
+var one = "Gooood guy"
